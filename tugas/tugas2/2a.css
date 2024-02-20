@@ -1,0 +1,18 @@
+.style-1 {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    border: 2px solid #bbb;
+    box-shadow: 0 0 15px black;
+    border-radius: 15px;
+}
+
+.style-2 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-left: 15px;
+    text-align: center;
+}
